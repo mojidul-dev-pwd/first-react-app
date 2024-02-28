@@ -13,6 +13,7 @@ class App extends Component {
     ],
   };
 
+  //liftcycle -- constructor-render-mount
   constructor(){
     super();
     console.log("App - Constructor")
